@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+# Lunar lander
+# rework of the original basic version
+print "
